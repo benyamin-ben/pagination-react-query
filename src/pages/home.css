@@ -1,0 +1,8 @@
+.home-desc {
+  color: white;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+}

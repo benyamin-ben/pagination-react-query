@@ -1,0 +1,52 @@
+@font-face {
+  font-family: "messi";
+  src: url("../assets/fonts/messi.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.singleCourse {
+  font-family: "messi";
+}
+
+.container-details{
+  font-size: 15px;
+  padding-left: 10px;
+  background-color: #bababa;
+
+}
+
+.person-name {
+  margin-bottom: 5px;
+}
+.singleCourse-email{
+  color: rgb(51, 47, 47);
+  margin: 0;
+}
+
+
+.description {
+  padding: 12px;
+  font-family: "messi";
+  font-size: 20px;
+  color: red;
+}
+
+.containerDescIma {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+
+
+.image {
+  padding: 10px;
+}
+
+.isLoading{
+  margin-top: 50px 20px;
+  color: white;
+  padding: 40px;
+}
